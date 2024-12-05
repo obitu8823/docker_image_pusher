@@ -1,1 +1,2 @@
 nginx:latest
+ocker.io/jc21/nginx-proxy-manager:latest
