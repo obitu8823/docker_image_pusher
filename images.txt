@@ -2,4 +2,3 @@ nginx:latest
 docker.io/jc21/nginx-proxy-manager:latest
 jenkinsci/blueocean
 ghcr.io/gethomepage/homepage:latest
-mcr.microsoft.com/windows:ltsc2019-amd64
