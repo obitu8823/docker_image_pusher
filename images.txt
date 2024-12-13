@@ -2,3 +2,4 @@ nginx:latest
 docker.io/jc21/nginx-proxy-manager:latest
 jenkinsci/blueocean
 ghcr.io/gethomepage/homepage:latest
+dockurr/windows
