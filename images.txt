@@ -5,3 +5,4 @@ docker.io/jc21/nginx-proxy-manager:latest
 #dockurr/windows
 #sickcodes/docker-osx:latest
 mysql:latest
+neosmemo/memos:stable
